@@ -17,3 +17,5 @@ All the awesome papers I've seen.
 - [GAN](MDFiles/GAN.md)
 - [Binary Neural Networks](MDFiles/BNN.md)
 - [Compressing Neural Networks](MDFiles/CompressingNN.md)
+- [Multi-view Geometry using Deep Learning](MDFiles/GeometricDL.md)
+- [Optical Flow](MDFiles/OpticalFlow.md)
