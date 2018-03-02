@@ -1,0 +1,46 @@
+## Neural Networks in 3D
+- [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396): Generates realistic images from text (fine example of zero shot learning). [<img src="README/images/logo/document.png" width="24" height="24" />](PaperSummaries/GANTextToImageSummary.txt)  [<img src="README/images/logo/torch.png" width="24" height="24" />](https://github.com/reedscot/icml2016) [<img src="README/images/logo/theano.svg" width="36" height="24" />](https://github.com/paarthneekhara/text-to-image) [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/zsdonghao/text-to-image)
+
+- [Beam Search for Learning a Deep Convolutional Neural Network of 3D Shapes](https://arxiv.org/abs/1612.04774): Paper presents methods to fine-tune architecture by adding or removing neurons for 3D object recognition using Voxel Grids (useful for changing architecture to start adding layers to grow the network to account for new classes).
+
+- [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584): Paper presents a method to generate single object class from a latent space (useful starting point for single class).  [<img src="README/images/logo/document.png" width="24" height="24" />](PaperSummaries/GAN3DLatentSpaceArithmetic.txt) [<img src="README/images/logo/torch.png" width="24" height="24" />](https://github.com/zck119/3dgan-release) [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/meetshah1995/tf-3dgan)
+
+- [Learning to Generate Chairs, Tables and Cars with Convolutional Networks](https://arxiv.org/abs/1411.5928): Paper presents a method to take input as class, view and transformation parameters to generate images of chairs with segmentation masks (good to derive ideas on priming the latent space). Note that this paper does not use a GAN but only a CNN.   [<img src="README/images/logo/document.png" width="24" height="24" />](PaperSummaries/GeneratingChairCNNSummary.txt)
+
+- [3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions](https://arxiv.org/abs/1603.08182): Paper presents a feature extractor to match shapes in 3D voxel grids (useful to get a score metric of how close shapes are). [<img src="README/images/logo/matlab-Logo.png" width="24" height="24" />](PaperSummaries/https://github.com/andyzeng/3dmatch-toolbox)
+
+- [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/1612.00603): Paper presents a method to obtain 3D point set from a single image which is an alternative repesentation to voxel grids (less lossy than voxel grids and can be useful for us). [<img src="README/images/logo/document.png" width="24" height="24" />](PaperSummaries/GuibasImageTo3DSummary.txt)
+
+
+## GANs and it's improvements
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661): The original paper which proposed the concept of GANs. [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
+![GAN loss](README/images/gan.png)
+
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434): The first GAN paper which uses a deep convolutional network for generative and discriminative networks. [TensorFlowCodeTutorial](http://bamos.github.io/2016/08/09/deep-completion/) [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/carpedm20/DCGAN-tensorflow)
+
+- [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784): Talks about conditioniong latent space based on class. [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://wiseodd.github.io/techblog/2016/12/24/conditional-gan-tensorflow/) [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/wiseodd/generative-models/blob/master/GAN/conditional_gan/cgan_tensorflow.py)
+![CGAN loss](README/images/cgan.png)  
+
+- [Wasserstein GAN](https://arxiv.org/abs/1701.07875): Improves stability by getting rid of mode collapse problem by using an alternative formulation. [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://wiseodd.github.io/techblog/2017/02/04/wasserstein-gan/) [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/wiseodd/generative-models/blob/master/GAN/wasserstein_gan/wgan_tensorflow.py)
+
+- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657): Talks about priming latent space to learn specific functionality for specific parts of the latent space. [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://wiseodd.github.io/techblog/2017/01/29/infogan/) [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/openai/InfoGAN)
+![infoGAN loss 1](README/images/infogan1.png)   
+![infoGAN loss 2](README/images/infogan2.png)  
+
+- [GANHacks](https://github.com/soumith/ganhacks): Some hacks by Soumith Chinthala to stabilize GAN training. 
+
+- [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/abs/1612.00005):  This paper introduces an additional prior on the latent code, improving both sample quality and sample diversity, leading to a state-of-the-art generative model that produces high quality images at higher resolutions. [<img src="README/images/logo/caffe-logo.png" width="48" height="16" />](https://github.com/Evolving-AI-Lab/ppgn)
+
+- [Stabilizing Adversarial Nets With Prediction Methods](https://arxiv.org/abs/1705.07364): Stabilizes GAN training using PDHG methods. 
+
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593): Amazing paper on unpaired image to image translation.  [<img src="README/images/logo/torch.png" width="24" height="24" />](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [<img src="README/images/logo/torch.png" width="24" height="24" />](https://github.com/junyanz/CycleGAN)
+
+- [Deep Metric Learning using Triplet Network](https://arxiv.org/abs/1412.6622): Talks about using Triplet loss to learn useful metrics. [<img src="README/images/logo/torch.png" width="24" height="24" />](https://github.com/eladhoffer/TripletNet)
+
+- [Deep Supervised Hashing with Triplet Labels](http://www.cs.cmu.edu/~kkitani/pdf/WSK-ACCV16.pdf): Concept of using Triplet loss for hashing in neural nets. [<img src="README/images/logo/matlab-Logo.png" width="24" height="24" />](https://github.com/Minione/DTSH) 
+
+#### TODO
+- [ ] Add papers regarding alternative representations to voxels (surfles and so on).
+- [ ] Add papers regarding OctTree and QuadTree based repsentations in neural nets for object recognition.
+
+***

@@ -1,0 +1,14 @@
+Paper Summary for "Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling" <2017-03-06 Mon>
+
+* Learn on 3D object manifold
+* Proposes idea of 3D-GAN. GAN has a Generator Network G and a Discriminator Network D. G maps a 200D latent vector z randomly sampled from probabailistic space to 64x64x64 voxel grid G(z).
+* Discriminator network D outputs  a value D(x) of wether a 3D object is real or synthetic.
+* Loss function used for classification is binary cross-entropy loss. z is unifromly sampled from distribution p(z) where each dimension of z is an IID uniform over [0,1].
+* G uses convolutional layers with batch normalization and ReLU and Sigmoid at the end.
+* D uses mirrored structure with the only difference being the usage of leaky ReLU.
+* D and G train at different rates, hence D only gets updated if accuracy in the last batch was not higher than 80%.
+* Learning rate of G was 0.0025 and D was 1e-5 with a batch size of 100. ADAM solver used with \beta = 0.5.
+* 3D-VAE-GAN introduced which will map 2D image to 3D structure. Additional encoder layer E is added which takes a 2D image x as input and outputs the latent representation vector z.
+* Decoder of VAE is shared with generator of GAN.
+* Loss contains reconstruction loss, cross entropy loss and KL divergence loss to limit distribution of the output of the encoder.
+* Works amazingly well for 25 samples per class in ModelNet10 and ModelNet40.

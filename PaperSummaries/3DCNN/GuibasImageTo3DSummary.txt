@@ -1,0 +1,9 @@
+Paper Summary for "A Point Set Generation Network for 3D Object Reconstruction from a Single Image" <2017-01-29 Sun>
+* Paper from Guibas of Stanford University
+* Input is a single RGB image (Similar to SIRFS but tries to incorporate priors)
+* Output is a 1024 point 3D point cloud
+* Multiple different distance metrics like Chamfer Distance (CD) and Earth Mover's Distance (EMD) are proposed
+* Training data obtained from [[https://shapenet.org/][ShapeNet dataset]] - first step is to obtain 3D models from 2D images of CAD models
+* Author's also talk about 3D shape completion in RGB-D images
+* For real data, object is masked out - outputs are pretty amazing for a network trained on just synthetic data!!
+* TODO Post-processing is done to clean up the data - Need to read in detail
