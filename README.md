@@ -16,3 +16,4 @@ All the awesome papers I've seen.
 - [3D Neural Networks](MDFiles/3DCNN.md) 
 - [GAN](MDFiles/GAN.md)
 - [Binary Neural Networks](MDFiles/BNN.md)
+- [Compressing Neural Networks](MDFiles/CompressingNN.md)
