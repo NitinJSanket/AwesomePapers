@@ -11,6 +11,7 @@ All the awesome papers I've seen.
 - Matlab/Matconvnet: [<img src="README/images/logo/matlab-Logo.png" width="24" height="24" />]()
 - Theano: [<img src="README/images/logo/theano.svg" width="48" height="24" />]()
 - Torch: [<img src="README/images/logo/torch.png" width="24" height="24" />]()
+- PyTorch: [<img src="README/images/logo/pytorch.jpg" width="24" height="24" />]()
 
 ## Table of Contents:
 - [3D Neural Networks](MDFiles/3DCNN.md) 
@@ -19,3 +20,4 @@ All the awesome papers I've seen.
 - [Compressing Neural Networks](MDFiles/CompressingNN.md)
 - [Multi-view Geometry using Deep Learning](MDFiles/GeometricDL.md)
 - [Optical Flow](MDFiles/OpticalFlow.md)
+- [Spectral Convolutional Neural Networks](MDFiles/SpectralCNN.md)

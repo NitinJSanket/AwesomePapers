@@ -15,4 +15,6 @@
 
 - [Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model](https://arxiv.org/abs/1709.03966) Estimate robust homography using deep learning. Steven's and Shreas' paper.
 
+- [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/abs/1703.04309) Alex Kendall and Skidio's paper on obtaining stereo disparity using CNN. Takes 0.90s per pass. [<img src="../README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/Jiankai-Sun/GC-Net) 
 
+- [Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) Stereo disparity from CNN. Impressive results. Takes 0.41s per pass. [<img src="../README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/JiaRenChang/PSMNet) 
