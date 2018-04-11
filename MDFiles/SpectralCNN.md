@@ -3,8 +3,7 @@
 
 - [Compressing Convolutional Neural Networks](https://arxiv.org/abs/1506.04449): Introduces FreshNets which uses DCT on HashedNets to achieve better compression.  [<img src="../README/images/logo/document.png" width="24" height="24" />](https://www.cse.wustl.edu/~ychen/FreshNets/) 
 
-
-
+- [A Frequency Domain Neural Network for Fast Image Super-resolution](https://arxiv.org/abs/1712.03037): Uses Hartley transform to end-to-end train a CNN in spectral domain to perform super-resolution. About 40x faster than a comparable spatial CNN.  [<img src="../README/images/logo/document.png" width="24" height="24" />](../PaperSummaries/SpectralCNN/SpectralSuperRes.pdf) 
 
 
 
