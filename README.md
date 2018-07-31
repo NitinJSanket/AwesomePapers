@@ -21,3 +21,4 @@ All the awesome papers I've seen.
 - [Multi-view Geometry using Deep Learning](MDFiles/GeometricDL.md)
 - [Optical Flow](MDFiles/OpticalFlow.md)
 - [Spectral Convolutional Neural Networks](MDFiles/SpectralCNN.md)
+- [Sensor Fusion](MDFiles/SensorFusion.md) 
