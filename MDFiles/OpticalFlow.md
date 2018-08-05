@@ -11,3 +11,7 @@
 
 - [PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://arxiv.org/abs/1709.02371) NVIDIA's amazing deep learning based optical flow. Spectacular results which are better than FlowNet2 and can run at 35fps on a 1024x436 image.
 - [Correlation Flow: Robust Optical Flow Using Kernel Cross-Correlators](https://arxiv.org/abs/1802.07078) Impressive results for a frequency based optical flow algorithm which is a one-to-one replacement for the PX4Flow sensor. Can provide linear velocities and yaw rate. Can be used for odometry on a quadrotor.
+
+- [Notes on Motion Estimation by David Heeger](http://www.cns.nyu.edu/~david/handouts/motion.pdf) Derives expression for flow on plane.
+
+- [Optical Flow and Motion Analysis by Ying Wu](http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/Notes/optical_flow.pdf) 
