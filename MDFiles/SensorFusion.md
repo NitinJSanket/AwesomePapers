@@ -7,3 +7,4 @@
 - Kumar's Latest MSCKF: https://arxiv.org/abs/1712.00036
 - VINS's more detailed concept explanation: http://www.ece.ust.hk/~eeshaojie/vins2016zhenfei.pdf
 - IMU Pre-integration: http://wafr2016.berkeley.edu/papers/WAFR_2016_paper_95.pdf
+- IMU Pre-integration code blog: https://nicolovaligi.com/robotics-for-developers/adding-accelerometer.html
