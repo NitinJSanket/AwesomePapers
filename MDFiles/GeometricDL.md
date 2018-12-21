@@ -17,4 +17,24 @@
 
 - [End-to-End Learning of Geometry and Context for Deep Stereo Regression](https://arxiv.org/abs/1703.04309) Alex Kendall and Skidio's paper on obtaining stereo disparity using CNN. Takes 0.90s per pass. [<img src="../README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/Jiankai-Sun/GC-Net) 
 
-- [Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) Stereo disparity from CNN. Impressive results. Takes 0.41s per pass. [<img src="../README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/JiaRenChang/PSMNet) 
+- [Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) Stereo disparity from CNN. Impressive results. Takes 0.41s per pass. [<img src="../README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/JiaRenChang/PSMNet) .
+
+- [Spherical CNNs](https://arxiv.org/abs/1801.10130) First paper on Spherical CNN.  [<img src="README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/jonas-koehler/s2cnn). 
+```diff
+- TODO Paper Summary
+```
+
+- [Learning Spherical Convolution for Fast Features from 360° Imagery](https://arxiv.org/abs/1708.00919) Feature extraction on 360° Imagery. 
+```diff
+- TODO Paper Summary
+```
+
+- [Spherical convolutions and their application in molecular modelling](https://papers.nips.cc/paper/6935-spherical-convolutions-and-their-application-in-molecular-modelling)
+```diff
+- TODO Paper Summary
+```
+
+- [DSAC - Differentiable RANSAC for Camera Localization](https://arxiv.org/abs/1611.05705) Implements RANSAC in a neural network.
+```diff
+- TODO Paper Summary
+```

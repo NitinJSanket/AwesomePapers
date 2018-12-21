@@ -2,6 +2,20 @@
 
 All the awesome papers I've seen.
 
+## Update Notes:
+Update Notes can be [found here](MDFiles/UpdateNotes.md)
+
+## Table of Contents:
+- [Binary Neural Networks](MDFiles/BNN.md)
+- [Compressing Neural Networks](MDFiles/CompressingNN.md)
+- [Multi-view Geometry using Deep Learning](MDFiles/GeometricDL.md)
+- [Optical Flow](MDFiles/OpticalFlow.md)
+- [Sensor Fusion](MDFiles/SensorFusion.md) 
+- [Quadrotor](MDFiles/Quadrotor.md)
+- [3D Neural Networks](MDFiles/3DCNN.md) 
+- [GAN](MDFiles/GAN.md)
+- [Spectral Convolutional Neural Networks](MDFiles/SpectralCNN.md)
+
 ## Legend:
 - Tensorflow: [<img src="README/images/logo/tf.jpg" width="24" height="24" />]()
 - Keras: [<img src="README/images/logo/Keras_Logo.jpg" width="24" height="24" />]()
@@ -12,14 +26,3 @@ All the awesome papers I've seen.
 - Theano: [<img src="README/images/logo/theano.svg" width="48" height="24" />]()
 - Torch: [<img src="README/images/logo/torch.png" width="24" height="24" />]()
 - PyTorch: [<img src="README/images/logo/pytorch.jpg" width="24" height="24" />]()
-
-## Table of Contents:
-- [3D Neural Networks](MDFiles/3DCNN.md) 
-- [GAN](MDFiles/GAN.md)
-- [Binary Neural Networks](MDFiles/BNN.md)
-- [Compressing Neural Networks](MDFiles/CompressingNN.md)
-- [Multi-view Geometry using Deep Learning](MDFiles/GeometricDL.md)
-- [Optical Flow](MDFiles/OpticalFlow.md)
-- [Spectral Convolutional Neural Networks](MDFiles/SpectralCNN.md)
-- [Sensor Fusion](MDFiles/SensorFusion.md) 
-- [Quadrotor](MDFiles/Quadrotor.md)
