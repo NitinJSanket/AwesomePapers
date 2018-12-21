@@ -19,7 +19,7 @@
 
 - [Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) Stereo disparity from CNN. Impressive results. Takes 0.41s per pass. [<img src="../README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/JiaRenChang/PSMNet) .
 
-- [Spherical CNNs](https://arxiv.org/abs/1801.10130) First paper on Spherical CNN.  [<img src="README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/jonas-koehler/s2cnn). 
+- [Spherical CNNs](https://arxiv.org/abs/1801.10130) First paper on Spherical CNN.  [<img src="../README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/jonas-koehler/s2cnn). <p style='color:red'>TODO Paper Summary</p>
 ```diff
 - TODO Paper Summary
 ```

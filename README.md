@@ -3,7 +3,7 @@
 All the awesome papers I've seen.
 
 ## Update Notes:
-Update Notes can be [found here](MDFiles/UpdateNotes.md)
+Update Notes can be [found here](MDFiles/UpdateNotes.md).
 
 ## Table of Contents:
 - [Binary Neural Networks](MDFiles/BNN.md)
