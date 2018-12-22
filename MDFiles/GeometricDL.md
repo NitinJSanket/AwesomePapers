@@ -39,6 +39,11 @@
 - TODO Paper Summary
 ```
 
+- [Modelling and unsupervised learning of symmetric deformable object categories](http://papers.nips.cc/paper/8040-modelling-and-unsupervised-learning-of-symmetric-deformable-object-categories.pdf)
+```diff
+- TODO Paper Summary
+```
+
 - [From Motion Blur to Motion Flow: a Deep Learning Solution for
 Removing Heterogeneous Motion Blur](https://arxiv.org/abs/1612.02583) Generates Motion Flow (Optical Flow) from a Blurred Image. 
 ```diff
