@@ -15,6 +15,7 @@ Update Notes can be [found here](MDFiles/UpdateNotes.md).
 - [3D Neural Networks](MDFiles/3DCNN.md) 
 - [GAN](MDFiles/GAN.md)
 - [Spectral Convolutional Neural Networks](MDFiles/SpectralCNN.md)
+- [General Neural Networks](MDFiles/GenCNN.md)
 
 ## Legend:
 - Tensorflow: [<img src="README/images/logo/tf.jpg" width="24" height="24" />]()
