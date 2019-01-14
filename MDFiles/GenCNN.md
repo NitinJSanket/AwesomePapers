@@ -4,3 +4,8 @@
 ```diff
 - TODO Paper Summary
 ```
+
+- [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678) A paper with amazing plots of comparison of different architectures for accuracy, size, memory, speed and power. Can take inspiration for plots in future papers comparing architectures.
+```diff
+- TODO Paper Summary
+```
