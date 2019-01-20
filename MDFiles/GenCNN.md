@@ -13,3 +13,8 @@
 ```diff
 - TODO Paper Summary
 ```
+
+- [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982): Presents a method of having two pathways (one slow and one fast) for the same task. Might be useful for short and long term planning. 
+```diff
+- TODO Paper Summary
+```
