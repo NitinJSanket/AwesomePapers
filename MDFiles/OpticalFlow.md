@@ -15,3 +15,8 @@
 - [Notes on Motion Estimation by David Heeger](http://www.cns.nyu.edu/~david/handouts/motion.pdf) Derives expression for flow on plane.
 
 - [Optical Flow and Motion Analysis by Ying Wu](http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/Notes/optical_flow.pdf) 
+
+- [Reactive Obstacle Avoidance for Highly Maneuverable Vehicles Based on a Two-Stage Optical Flow Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7782362): Uses Time to contact for obstacle avoidance. 
+```diff
+- TODO Paper Summary
+```
