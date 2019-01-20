@@ -1,5 +1,6 @@
 ## Update Notes
 
+- Jan 19 2019: Added SlowFast Networks for Video Recognition without summary in [GenCNN.md](GenCNN.md).
 - Jan 19 2019: Added Inverse Compositional Spatial Transformer Networks without summary in [GenCNN.md](GenCNN.md).
 - Jan 19 2019: Added Online Embedding Compression for Text Classification using Low Rank Matrix Factorization without summary in [CompressingNN.md](CompressingNN.md).
 - Jan 14 2019: Added An Analysis of Deep Neural Network Models for Practical Applications without summary in [GenCNN.md](GenCNN.md).
