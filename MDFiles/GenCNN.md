@@ -9,7 +9,7 @@
 ```diff
 - TODO Paper Summary
 ```
-- [Inverse Compositional Spatial Transformer Networks](https://arxiv.org/abs/1612.03897): Better STN inspired by Inverse Compositional Lukas Kanade Tracker (IC-LK). Seems very promising.  [<img src="README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/chenhsuanlin/inverse-compositional-STN).
+- [Inverse Compositional Spatial Transformer Networks](https://arxiv.org/abs/1612.03897): Better STN inspired by Inverse Compositional Lukas Kanade Tracker (IC-LK). Seems very promising.  [<img src="../README/images/logo/tf.jpg" width="24" height="24" />](https://github.com/chenhsuanlin/inverse-compositional-STN).
 ```diff
 - TODO Paper Summary
 ```
