@@ -1,4 +1,7 @@
 ## Compressing Neural Networks
+- [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://export.arxiv.org/abs/1904.05049): Latest compression paper from FAIR.
+
+
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149): 35-49x compression without loss of accuracy.
 
 - [Compressing Neural Networks with the Hashing Trick](https://arxiv.org/abs/1504.04788):  Use Hashing to compress networks.
