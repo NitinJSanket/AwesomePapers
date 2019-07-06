@@ -10,3 +10,4 @@
 
 - [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/1612.00603): Paper presents a method to obtain 3D point set from a single image which is an alternative repesentation to voxel grids (less lossy than voxel grids and can be useful for us). [<img src="../README/images/logo/document.png" width="24" height="24" />](../PaperSummaries/3DCNN/GuibasImageTo3DSummary.txt)
 
+- [OpenMVG: Open Multiple View Geometry](http://imagine.enpc.fr/~marletr/publi/RRPR-2016-Moulon-et-al.pdf): A C++ library for multi-view geometry.
