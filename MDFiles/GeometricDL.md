@@ -1,4 +1,11 @@
 ## Multi-view Geometry using Deep Learning
+- [Unsupervised Deep Visual-Inertial Odometry with Online Error Correction for RGB-D Imagery](https://ieeexplore.ieee.org/document/8691513): Presents an approach called VIOLearner which fuses RGB-D and IMU data for absolute trajectory estimation. A great PAMI paper with a lot of comparisons and studies of robustness including fog.
+
+
+- [DeepVIO: Self-supervised Deep Learning of Monocular Visual Inertial Odometry using 3D Geometric Constraints](https://arxiv.org/abs/1906.11435): Performs IMU pre-integration in a network and then fuses it with depth and pose network. 
+
+- [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://arxiv.org/abs/1701.08376): Fuses Camera and IMU in a Neural Network. CNN for Vision which runs at 10Hz on a Tesla K80 and LSTM for IMU 200Hz on a Tesla K80.
+
 - [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/abs/1505.07427): Uses a naive loss function to regress 6DOF pose from an input RGB image. Needs excessive parameter tuning.
 
 - [Geometric Loss Functions for Camera Pose Regression with Deep Learning](https://arxiv.org/abs/1704.00390):  Improvement of the PoseNet paper with better results a new theoretical loss functions based on multi-view geometry.
@@ -20,38 +27,22 @@
 - [Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) Stereo disparity from CNN. Impressive results. Takes 0.41s per pass. [<img src="../README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/JiaRenChang/PSMNet) .
 
 - [Spherical CNNs](https://arxiv.org/abs/1801.10130) First paper on Spherical CNN.  [<img src="../README/images/logo/pytorch.jpg" width="24" height="24" />](https://github.com/jonas-koehler/s2cnn). 
-```diff
-- TODO Paper Summary
-```
 
 - [Learning Spherical Convolution for Fast Features from 360° Imagery](https://arxiv.org/abs/1708.00919) Feature extraction on 360° Imagery. 
-```diff
-- TODO Paper Summary
-```
 
 - [Spherical convolutions and their application in molecular modelling](https://papers.nips.cc/paper/6935-spherical-convolutions-and-their-application-in-molecular-modelling)
-```diff
-- TODO Paper Summary
-```
+
 
 - [DSAC - Differentiable RANSAC for Camera Localization](https://arxiv.org/abs/1611.05705) Implements RANSAC in a neural network.
-```diff
-- TODO Paper Summary
-```
+
 
 - [Modelling and unsupervised learning of symmetric deformable object categories](http://papers.nips.cc/paper/8040-modelling-and-unsupervised-learning-of-symmetric-deformable-object-categories.pdf)
-```diff
-- TODO Paper Summary
-```
+
 
 - [From Motion Blur to Motion Flow: a Deep Learning Solution for
 Removing Heterogeneous Motion Blur](https://arxiv.org/abs/1612.02583) Generates Motion Flow (Optical Flow) from a Blurred Image. 
-```diff
-- TODO Paper Summary
-```
 
 - [Removing Camera Shake from a Single Photograph](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf) Removing Motion blur using an MAP method.
-```diff
-- TODO Paper Summary
-```
+
+
 

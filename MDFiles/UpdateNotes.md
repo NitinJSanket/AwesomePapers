@@ -1,5 +1,7 @@
 ## Update Notes
 
+- Aug 31 2019: Added DeepVIO and VIOLearner papers to [GeometricDL.md](GeometricDL.md).
+- Aug 31 2019: Moved VINet from [Quadrotor.md](Quadrotor.md) to [GeometricDL.md](GeometricDL.md).
 - July 06 2019: Added OpenMVG: Open Multiple View Geometry paper to [3DCNN.md](3DCNN.md).
 - July 06 2019: Created a new topic on [Rotations, Special Orthogonal Group and Quaternions.md](Rotations.md) and added some key papers. 
 - Aptil 18 2019: Added Optic-Flow Based Control of a 46g Quadrotor without summary in [Quadrotor.md](Quadrotor.md) and Octave compression from FAIR in [CompressingNN.md](CompressingNN.md).

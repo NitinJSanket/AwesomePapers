@@ -10,6 +10,4 @@
 - [Learning to Prune Filters in Convolutional Neural Networks](https://arxiv.org/abs/1801.07365): Prune to compress network by selecting maximum tolerable loss in accuracy. Good for choosing the trade-off between model size and accuacy.
 
 - [Online Embedding Compression for Text Classification using Low Rank Matrix Factorization](https://arxiv.org/pdf/1811.00641): Presents a method for compression using online low rank factorization, from Amazon Alexa team. Not sure if it'll work with deconv layers and on images. 
-```diff
-- TODO Paper Summary
-```
+
