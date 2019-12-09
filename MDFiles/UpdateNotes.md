@@ -1,5 +1,8 @@
 ## Update Notes
 
+- Dec 09 2019: Added seven new papers in [Quadrotor.md](Quadrotor.md).
+- Dec 09 2019: Added three new papers in [GeometricDL.md](GeometricDL.md).
+- Dec 09 2019: Created a new category Omnidirectional papers in [Omni.md](Omni.md) and added four papers. 
 - Aug 31 2019: Added DeepVIO and VIOLearner papers to [GeometricDL.md](GeometricDL.md).
 - Aug 31 2019: Moved VINet from [Quadrotor.md](Quadrotor.md) to [GeometricDL.md](GeometricDL.md).
 - July 06 2019: Added OpenMVG: Open Multiple View Geometry paper to [3DCNN.md](3DCNN.md).

@@ -9,6 +9,7 @@ Update Notes can be [found here](MDFiles/UpdateNotes.md).
 - [Binary Neural Networks](MDFiles/BNN.md)
 - [Compressing Neural Networks](MDFiles/CompressingNN.md)
 - [Multi-view Geometry using Deep Learning](MDFiles/GeometricDL.md)
+- [Omni-directional videos/images](MDFiles/Omni.md)
 - [Optical Flow](MDFiles/OpticalFlow.md)
 - [Sensor Fusion](MDFiles/SensorFusion.md) 
 - [Quadrotor](MDFiles/Quadrotor.md)

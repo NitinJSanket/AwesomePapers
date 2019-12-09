@@ -1,7 +1,6 @@
 ## Multi-view Geometry using Deep Learning
 - [Unsupervised Deep Visual-Inertial Odometry with Online Error Correction for RGB-D Imagery](https://ieeexplore.ieee.org/document/8691513): Presents an approach called VIOLearner which fuses RGB-D and IMU data for absolute trajectory estimation. A great PAMI paper with a lot of comparisons and studies of robustness including fog.
 
-
 - [DeepVIO: Self-supervised Deep Learning of Monocular Visual Inertial Odometry using 3D Geometric Constraints](https://arxiv.org/abs/1906.11435): Performs IMU pre-integration in a network and then fuses it with depth and pose network. 
 
 - [VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem](https://arxiv.org/abs/1701.08376): Fuses Camera and IMU in a Neural Network. CNN for Vision which runs at 10Hz on a Tesla K80 and LSTM for IMU 200Hz on a Tesla K80.
@@ -44,5 +43,8 @@ Removing Heterogeneous Motion Blur](https://arxiv.org/abs/1612.02583) Generates 
 
 - [Removing Camera Shake from a Single Photograph](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf) Removing Motion blur using an MAP method.
 
+- [SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](https://arxiv.org/abs/1810.01849)
 
+- [How do neural networks see depth in single images?](https://arxiv.org/abs/1905.07005)
 
+- [Self-Supervised deep homography estimation with invertibility constraints](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302673)
