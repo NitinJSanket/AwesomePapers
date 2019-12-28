@@ -1,5 +1,6 @@
 ## Update Notes
 
+- Dec 28 2019: Added new paper SuperPoint in [GeometricDL.md](GeometricDL.md) with summary and code in TensorFlow and Pytorch.
 - Dec 09 2019: Added seven new papers in [Quadrotor.md](Quadrotor.md).
 - Dec 09 2019: Added three new papers in [GeometricDL.md](GeometricDL.md).
 - Dec 09 2019: Created a new category Omnidirectional papers in [Omni.md](Omni.md) and added four papers. 
