@@ -1,4 +1,6 @@
 ## Multi-view Geometry using Deep Learning
+- [Convolutional neural network architecture for geometric matching](https://www.di.ens.fr/~josef/publications/Rocco17.pdf): Implements TPS in a network.
+
 - [Unsupervised Deep Visual-Inertial Odometry with Online Error Correction for RGB-D Imagery](https://ieeexplore.ieee.org/document/8691513): Presents an approach called VIOLearner which fuses RGB-D and IMU data for absolute trajectory estimation. A great PAMI paper with a lot of comparisons and studies of robustness including fog.
 
 - [DeepVIO: Self-supervised Deep Learning of Monocular Visual Inertial Odometry using 3D Geometric Constraints](https://arxiv.org/abs/1906.11435): Performs IMU pre-integration in a network and then fuses it with depth and pose network. 
